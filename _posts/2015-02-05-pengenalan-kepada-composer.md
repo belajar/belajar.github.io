@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 'PHP: Pengenalan kepada Composer'
 author: kamalmustafa
 date: 2015-02-05
