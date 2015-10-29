@@ -1,5 +1,6 @@
-title: "Bagaimana web development dalam Python ?"
-date: 2015-05-19 02:56:39
+---
+title: 'Bagaimana web development dalam Python ?'
+date: 2015-05-19
 author: kamalmustafa
 level: 1
 summary: >
