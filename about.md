@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: Tentang Kami
 permalink: /about/
 ---
 
-Some information about you!
+Laman ini adalah sebuah platform untuk belajar berkaitan Teknologi Maklumat seperti pengaturcaraan (programming), system administration dan topik IT secara umum.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Untuk mendapatkan update terkini daripada kami, join Channel Telegram <a href="https://telegram.me/devkini">https://telegram.me/devkini</a>.
