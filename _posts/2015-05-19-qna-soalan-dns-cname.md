@@ -2,7 +2,6 @@
 layout: post
 title: "QnA: Soalan berkaitan DNS, CNAME"
 date: 2015-05-19 10:02:51
-permalink: qna-soalan-dns-cname.html
 tags:
     - dns
     - cname
