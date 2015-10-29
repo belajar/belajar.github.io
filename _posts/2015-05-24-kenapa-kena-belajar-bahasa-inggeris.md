@@ -4,8 +4,7 @@ title: "Kenapa Kena Belajar Bahasa Inggeris ?"
 date: 2015-05-24 05:28:44
 tags: 
     - bi
-categories: Programming
-permalink: kenapa-kena-belajar-bahasa-inggeris.html
+categories: programming
 summary: >
             Menguasai Bahasa Inggeris sebagai modal asas untuk menambahkan pengalaman kerjaya anda dalam bidang pembangunan perisian.
 ---
