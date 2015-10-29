@@ -6,7 +6,7 @@ tags:
     - ssl
     - php
     - mysql
-categories: Devops
+categories: devops
 summary: >
             Panduan ringkas untuk sambungan ke MySQL melalui SSL/TLS.
 ---
