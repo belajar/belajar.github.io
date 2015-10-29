@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Bagaimana web development dalam Python ?'
 date: 2015-05-19
 author: kamalmustafa
