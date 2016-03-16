@@ -155,6 +155,7 @@ Dan program tersebut akan dihentikan sementara (*pause*) bagi membolehkan anda u
 <img src="http://i.imgur.com/PclDVtU.png"></img>
 
 ## Penutup
-Di atas adalah pandangan sepintas lalu bagaimana proses *development* dalam Python dijalankan. Jika anda berminat untuk mengetahui lebih lanjut boleh ajukan melalui ruangan komen di bawah atau melalui [grup Facebook][fb] kami.
+Di atas adalah pandangan sepintas lalu bagaimana proses *development* dalam Python dijalankan. Jika anda berminat untuk mengetahui lebih lanjut boleh ajukan melalui ruangan komen di bawah atau melalui [Channel Telegram][tg] kami.
 
 [fb]:https://www.facebook.com/groups/belajarprogramming/
+[tg]:https://telegram.me/devkini
