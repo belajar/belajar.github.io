@@ -18,3 +18,5 @@ Contohnya, jika anda memohon pekerjaan sebagai seorang jurutera awam disebuah sy
 Namun dalam pembangunan perisian, ia bukannya satu isu. Seawal anda menjejakkan kaki ke universiti (atau lebih awal daripada itu), anda sudah boleh melibatkan diri dalam projek perisian mega seperti Linux Kernel, BSD OS, Android, Firefox, Chrome, Wordpress, Drupal, Laravel, Django, Ruby on Rails dan banyak lagi. Anda boleh bermula mungkin dengan hanya membantu mereka yang lain yang turut ingin belajar (*user support*), kemudian dengan menyumbang kepada dokumentasi-dokumentasi projek tersebut dan seterusnya menjadi developer yang aktif dalam pembangunan kod sekali.
 
 Semuanya terbuka luas untuk anda sertai, tanpa perlu melalui sebarang *interview* atau memerlukan surat sokongan daripada mana-mana pihak. Apa yang anda perlu kuasai cuma satu, (mungkin dua) - Bahasa Inggeris (BI) dan kemahiran menyampaikan idea anda melalui tulisan. Yang kedua boleh diasah dan dikuasai secara perlahan-lahan.
+
+xxx
